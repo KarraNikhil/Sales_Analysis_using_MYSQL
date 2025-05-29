@@ -1,4 +1,6 @@
 🛒 Sales Analysis Project Using SQL
+<span style="color: red;">🛒 Sales Analysis Project Using SQL</span>
+
 
 
 📌 Objective
@@ -118,11 +120,10 @@ Load the Excel dataset into a relational database (e.g., MySQL).
 Execute the SQL script (Sales_analysis.sql) using a database tool like MySQL Workbench or pgAdmin.
 
 View and analyze the output of each query.
-This is a <span style="color: green;">green</span> word.
-
 
 
 📁 Repository Structure
+
 sales-analysis-sql/
 ├── DA_Sales.xlsx             # Sales dataset
 ├── Sales_analysis.sql        # SQL queries for analysis
