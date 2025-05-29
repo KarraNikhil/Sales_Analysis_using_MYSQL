@@ -1,5 +1,4 @@
 🛒 Sales Analysis Project Using SQL
-<span style="color: red;">🛒 Sales Analysis Project Using SQL</span>
 
 
 
